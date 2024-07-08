@@ -3,11 +3,11 @@
 
 ## 使用指南
 
-![img1](https://raw.githubusercontent.com/ww-1009/punching/master/img/image1.jpg)
+![img1](https://raw.githubusercontent.com/ww-1009/punching/master/image/image1.jpg)
 
 1、打开企业微信进入打卡统计页面，点击导出
 
-![img2](https://raw.githubusercontent.com/ww-1009/punching/master/img/image2.jpg)
+![img2](https://raw.githubusercontent.com/ww-1009/punching/master/image/image2.jpg)
 
 2、日期选择当月月初至统计日（该脚本目前只支持当月统计）
 
